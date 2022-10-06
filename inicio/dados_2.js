@@ -12,6 +12,6 @@ console.log("Produto: " + nome
     + ", Preço: " + preco
     + ", Desconto: " + desconto);
 
-    //*() -> defini prioridade em operações matemáticas
+    //*() -> define prioridade em operações matemáticas
     // concatenação pode ser feita com sinal de +
     

@@ -1,12 +1,23 @@
-// console.log é usado para exibir algo na tela do computador *comentário óbvio desnecessário*
-console.log('Passo #03');
-console.log('Passo #01'); // mais um exemplo de console.log
-// console.log('Passo #02');
+//comentário de uma linha
+console.log('LInha 1')
 
 /*
-* Esse é um 
-* comentário 
-* de múltiplas
-* linhas!
+Comentário de 
+múltiplas linhas
 */
-console.log('Passo #02');
+console.log('Linha 2')
+
+/*
+ * Comentário de 
+ * múltiplas linhas
+ */
+console.log('Linha 3')
+
+
+
+
+
+
+
+//Colocar apenas comentários necessários e relevantes
+//Sucinto e explicativo 

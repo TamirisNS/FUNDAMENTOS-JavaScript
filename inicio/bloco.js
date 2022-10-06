@@ -25,5 +25,7 @@
 
 console.log('Fim');
 
-//bloco: agrupa sentenças de códigos.
+
+//sintaxe é fundamental
+//bloco: agrupa sentenças de códigos {}. Pode haver vários blocos internos.
 //importante definir blocos de códigos desde que faça sentido.
